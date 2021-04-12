@@ -9,10 +9,12 @@ Hi, I'm [Álvaro Roldán](https://github.com/alvarorl231), a student of Computer
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg' height='30'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/>
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="140" />
+
 
 #### 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alvarorl231&show_icons=true&theme=vue" alt="alvarorl231" />
+ 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="140" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alvarorl231.alvarorl231)
