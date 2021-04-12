@@ -15,6 +15,6 @@ Hi, I'm [Álvaro Roldán](https://github.com/alvarorl231), a student of Computer
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alvarorl231&show_icons=true&theme=vue" alt="alvarorl231" />
  
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="140" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alvarorl231.alvarorl231)
