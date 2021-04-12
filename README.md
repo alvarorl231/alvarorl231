@@ -5,7 +5,7 @@ Hi, I'm [Álvaro Roldán](https://github.com/alvarorl231), a student of Computer
 - 📫 How to reach me: [Twitter](https://twitter.com/alvarorl231) or [Instagram](https://instagram.com/alvarorl231)
 
 **Languages and Tools:**  
-<div align="center">
+<div align="left">
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg' height='30'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/>
 </div>
 
