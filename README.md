@@ -1,4 +1,4 @@
-## Hi there, I'm Álvaro Roldán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Álvaro Roldán <img src="https://github.com/alvarorl231/alvarorl231/blob/main/images/saludo.gif" width="25px">
 
 Hi, I'm [Álvaro Roldán](https://github.com/alvarorl231), a student of Computer Engineering at the  [University of Córdoba](http://www.uco.es/). My passions right now are software, cybersecurity and AI. I take great care in the code quality of the things I build.
  
@@ -6,7 +6,7 @@ Hi, I'm [Álvaro Roldán](https://github.com/alvarorl231), a student of Computer
 
 **Languages and Tools:**  
 <div align="left">
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg' height='30'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/>
+ <img src = 'https://github.com/alvarorl231/alvarorl231/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/alvarorl231/alvarorl231/blob/main/images/cpp.svg' width='30'/>  <img src = 'https://github.com/alvarorl231/alvarorl231/blob/main/images/sql.svg' height='30'/> <img src = 'https://github.com/alvarorl231/alvarorl231/blob/main/images/bash.png' width='30'/> <img src = 'https://github.com/alvarorl231/alvarorl231/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/alvarorl231/alvarorl231/blob/main/images/python.png' height='30'/>
 </div>
 
 
@@ -15,6 +15,6 @@ Hi, I'm [Álvaro Roldán](https://github.com/alvarorl231), a student of Computer
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alvarorl231&show_icons=true&theme=vue" alt="alvarorl231" />
  
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="200" />
+<img align="right" alt="GIF" src="https://github.com/alvarorl231/alvarorl231/blob/main/images/code.gif?raw=true" width="320" height="200" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alvarorl231.alvarorl231)
