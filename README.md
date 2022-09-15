@@ -1,6 +1,6 @@
 ## Hi there, I'm Álvaro <img src="https://github.com/alvarorl231/alvarorl231/blob/main/images/saludo.gif" width="25px">
 
-Hi, I'm [Álvaro Roldán](https://github.com/alvarorl231), a student of Computer Engineering at the  [University of Córdoba](http://www.uco.es/). My passions right now are software, and AI.
+Hi, I'm [Álvaro](https://github.com/alvarorl231), a student of Computer Engineering at the  [University of Córdoba](http://www.uco.es/). My passions right now are software, and AI.
  
 - 📫 How to reach me: [Twitter](https://twitter.com/alvarorl231) or [Instagram](https://instagram.com/alvarorl231)
 
